@@ -26,29 +26,29 @@ Prerequisites
 
 ** Installation & Setup
 
-    Clone the repository
-    Install frontend dependencies
+Clone the repository
+Install frontend dependencies
 
-cd client
-npm install
+  cd client
+  npm install
 
-    Install backend dependencies
+Install backend dependencies
 
-cd server
-npm install
+  cd server
+  npm install
+  
+Setup the database
+Running the application
 
-    Setup the database
-    Running the application
+Frontend:
 
-    Frontend:
+  cd client
+  npm start
 
-cd client
-npm start
+Backend:
 
-    Backend:
-
-cd server
-npm run dev
+  cd server
+  npm run dev
 
 Your application should now be running! Open a browser and navigate to http://localhost:3000.
 
