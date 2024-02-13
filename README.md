@@ -1,6 +1,6 @@
                                              Job Finder
 
-                         Your one-stop platform for finding jobs and hiring talent.
+                         Your one-stop platform for finding jobs and hiring talent!
 
 About
 Job Finder is a modern web application designed to bridge the gap between job seekers and employers. Whether you're a professional looking for your next big opportunity or a company seeking the best talent, Job Finder has you covered.
