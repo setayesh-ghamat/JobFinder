@@ -13,7 +13,9 @@ Job Seekers: Browse job listings, filter based on preferences, and apply with a 
 _Technologies_
 
 Frontend: React & Tailwind CSS
+
 Backend: Express.js
+
 Database: MySQL (MariaDB)
 
 _Prerequisites_
