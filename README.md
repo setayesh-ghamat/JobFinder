@@ -1,6 +1,6 @@
                                              Job Finder
 
-                         Your one-stop platform for finding jobs and hiring talent!
+                         Your one-stop platform for finding jobs and hiring talents!
 
 _About_
 
